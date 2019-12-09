@@ -3,6 +3,7 @@
 ## CS 3891: Special Topics - Cyber Security Final Project
 This repository contains my individual work for the final project of the Special Topics course about Cyber Security here at Vanderbilt University. The instructor for this course is [Professor Jules White](https://engineering.vanderbilt.edu/bio/jules-white).
 
+***Python modules required to be installed: shodan and its dependencies.***
 
 * What are you trying to do? Articulate your objectives using absolutely no jargon.
 

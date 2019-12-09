@@ -1,11 +1,7 @@
-# cyber-security-proj
-Final Project for CS 3891 Special Topics: Cyber Security at Vanderbilt University with Professor Jules White
+>**If you have any questions regarding this repository, please contact Ruida Zeng at ruida dot zeng at vanderbilt dot edu**
 
-# Name: Ruida Zeng
-# VUnetID: zengr
-# Email: ruida.zeng@vanderbilt.edu
-# Class: CS 3891 - Special Topics: Cyber Security
-# Date: Nov 4, 2019
+## CS 3891: Special Topics - Cyber Security Final Project
+This repository contains my individual work for the final project of the Special Topics course about Cyber Security here at Vanderbilt University. The instructor for this course is [Professor Jules White](https://engineering.vanderbilt.edu/bio/jules-white).
 
 
 * What are you trying to do? Articulate your objectives using absolutely no jargon.
